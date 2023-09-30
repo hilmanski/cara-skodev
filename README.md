@@ -5,3 +5,27 @@ Silahkan baca di [situs ini](https://cara.sko.dev)
 
 ## Stack
 Dokumentasi ini dibuat dengan [Startlight Astro](https://starlight.astro.build/)
+
+## To Do
+Topik yang akan dibahas
+
+
+### Artikel
+
+- tantangan mengajar, how to overcome
+    - membagi waktu (full time vs part time)
+    - merasa minder
+    - merasa capek
+    - buntu ide
+
+- Strategi marketing (memperkenalkan kontenmu)
+    - Grup pemrograman
+    - meetup offline (memberitahu orang langsung)
+    - social media
+    - bekerja sama
+
+### List
+- teknis dan list rekomendasi software/tool untuk blogging
+- teknis dan list rekomendasi software/tool untuk merekam video
+- List contoh konten kreator pemrograman per media
+- List tempat kamu bisa mengajar yang dibayar
