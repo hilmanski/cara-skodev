@@ -15,9 +15,10 @@ Karena itu saya ingin berbagi lewat tulisan seputar dunia `konten kreator untuk 
 
 > "Kenapa harus Kamu yang berbagi? kalau sudah banyak orang yang lebih jago."
 
-Alhamdulillah! senang sekali banyak orang yang lebih jago dan lebih senang berbagi dari saya. Ini berarti saya dan kamu bisa belajar banyak dari mereka.
 
 Ada yang lebih jago,  bukan berati `kita tidak boleh berbagi` atau `kamu tidak diperlukan`. Masalah ini akan kita bahas di bagian lain.
+
+Hal ini juga berarti saya dan kamu bisa belajar banyak dari mereka.
 
 > Yang pasti kalau kamu sudah punya keinginan untuk berbagi, saya berharap situs ini bisa membantu kamu untuk memulai dan meneruskannya
 

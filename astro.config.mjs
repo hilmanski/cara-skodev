@@ -42,6 +42,16 @@ export default defineConfig({
 						{ label: 'Memilih topik pemrograman', link: '/memilih-topik-pemrograman/' },
 					],
 				},
+
+				{
+					label: 'Tantangan mengajar',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Merasa tidak pantas', link: '/merasa-tidak-pantas/' },
+						{ label: 'Tidak punya waktu', link: '/tidak-punya-waktu/' },
+						{ label: 'Tidak punya ide', link: '/tidak-punya-ide/' },
+					],
+				},
 				// {
 				// 	label: 'Reference',
 				// 	autogenerate: { directory: 'reference' },

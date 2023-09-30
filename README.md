@@ -12,11 +12,11 @@ Topik yang akan dibahas
 
 ### Artikel
 
-- tantangan mengajar, how to overcome
-    - membagi waktu (full time vs part time)
-    - merasa minder
-    - merasa capek
-    - buntu ide
+- Tantangan umum mengajar, how to overcome
+    - [X] membagi waktu (full time vs part time)
+    - [X] merasa minder
+    - [ ] merasa capek
+    - [ ] buntu ide
 
 - Strategi marketing (memperkenalkan kontenmu)
     - Grup pemrograman
