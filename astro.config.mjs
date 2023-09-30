@@ -10,12 +10,12 @@ export default defineConfig({
 			favicon: '/favicon.ico',
 			social: {
 				github: 'https://github.com/hilmanski/cara-skodev',
+				twitter: 'https://twitter.com/hilmanski',
 			},
 			sidebar: [
 				{
 					label: 'Perkenalan',
 					items: [
-						// Each item here is one entry in the navigation menu.
 						{ label: 'Hello World', link: '/hello-world/' },
 						{ label: 'Kontributor', link: '/kontributor/' },
 					],
@@ -23,7 +23,6 @@ export default defineConfig({
 				{
 					label: 'Kenapa Mengajar',
 					items: [
-						// Each item here is one entry in the navigation menu.
 						{ label: 'Alasan mengajar', link: '/alasan-mengajar/' },
 						{ label: 'Mendapat uang', link: '/mendapatkan-uang/' },
 						{ label: 'Menciptakan Brand', link: '/menciptakan-brand/' },
@@ -36,7 +35,6 @@ export default defineConfig({
 				{
 					label: 'Langkah pertama',
 					items: [
-						// Each item here is one entry in the navigation menu.
 						{ label: 'Mulai Dari mana', link: '/mulai-dari-mana/' },
 						{ label: 'Memilih media mengajar', link: '/memilih-media-mengajar/' },
 						{ label: 'Memilih topik pemrograman', link: '/memilih-topik-pemrograman/' },
@@ -51,6 +49,13 @@ export default defineConfig({
 						{ label: 'Tidak punya waktu', link: '/tidak-punya-waktu/' },
 						{ label: 'Tidak punya ide', link: '/tidak-punya-ide/' },
 						{ label: 'Tidak punya tools', link: '/tidak-punya-tools/' },
+					],
+				},
+
+				{
+					label: 'Lainnya',
+					items: [
+						{ label: 'Mau bertanya?', link: '/tanya/' },
 					],
 				},
 				// {
