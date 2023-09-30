@@ -50,6 +50,7 @@ export default defineConfig({
 						{ label: 'Merasa tidak pantas', link: '/merasa-tidak-pantas/' },
 						{ label: 'Tidak punya waktu', link: '/tidak-punya-waktu/' },
 						{ label: 'Tidak punya ide', link: '/tidak-punya-ide/' },
+						{ label: 'Tidak punya tools', link: '/tidak-punya-tools/' },
 					],
 				},
 				// {

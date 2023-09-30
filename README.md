@@ -17,6 +17,7 @@ Topik yang akan dibahas
     - [X] merasa minder
     - [ ] merasa capek
     - [ ] buntu ide
+    - [ ] Terburu buru (tidak berpikir matang)
 
 - Strategi marketing (memperkenalkan kontenmu)
     - Grup pemrograman
